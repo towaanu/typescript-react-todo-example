@@ -1,5 +1,5 @@
 # Example project using Typescript and React
-You can find an article explaining the project here : [towaanu.com/writing/introduction-to-typescript-with-react/] (https://towaanu.com/writing/introduction-to-typescript-with-react/)
+You can find an article explaining the project here : [towaanu.com/writing/introduction-to-typescript-with-react/](https://towaanu.com/writing/introduction-to-typescript-with-react/)
 
 This project was created using [create-react-app](https://create-react-app.dev/) :
 ```console
